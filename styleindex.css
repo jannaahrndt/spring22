@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-image: url("img/lego.jpeg");
+}
+
+h1{
+		color:aquamarine;
+}
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.container{
+
+	margin-left:35%;
+
+}
+
+#demographics{
+	margin-left:35%;
+	margin-top:1000px;
+	margin-bottom:50%;
+}
